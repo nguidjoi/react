@@ -1,0 +1,13 @@
+{
+  "name": "1.socle-node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "prestart": "echo Welcome Developper !",
+    "start": "node ."
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
